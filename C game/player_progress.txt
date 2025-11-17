@@ -1,0 +1,12 @@
+0
+1
+1
+0
+0
+Game #1 played. Laps completed: 0. Score: 3.
+Game #2 played. Laps completed: 0. Score: 9.
+Game #1 played. Laps completed: 0. Score: 17.
+Game #1 played. Laps completed: 0. Score: 3.
+Game #1 played. Laps completed: 0. Score: 6.
+Game #1 played. Laps completed: 1. Score: 15.
+Game #2 played. Laps completed: 0. Score: 0.
